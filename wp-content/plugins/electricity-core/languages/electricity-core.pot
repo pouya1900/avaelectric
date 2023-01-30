@@ -1,0 +1,2848 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Caleader\n"
+"POT-Creation-Date: 2022-02-07 13:29+0600\n"
+"PO-Revision-Date: 2019-04-08 12:12+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_n:1,2;"
+"_nx:4c,1,2;_e;esc_attr_x;_n_noop;_x;_x:1,2c;_nx_noop:1,2;_n_noop:1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../electricity-addons/electricity-addons.php:114
+#, php-format
+msgid ""
+"If you want to use Elementor Version of \"%1$s\" Theme, Its requires \"%2$s"
+"\" to be installed and activated."
+msgstr ""
+
+#: ../electricity-addons/electricity-addons.php:115
+msgid "Electricity"
+msgstr ""
+
+#: ../electricity-addons/electricity-addons.php:116
+#: ../electricity-addons/electricity-addons.php:146 ../electricity-core.php:140
+msgid "Elementor"
+msgstr ""
+
+#: ../electricity-addons/electricity-addons.php:144
+#: ../electricity-addons/electricity-addons.php:166
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../electricity-addons/electricity-addons.php:145
+#: ../electricity-addons/electricity-addons.php:167
+msgid "Elementor Electricity"
+msgstr ""
+
+#: ../electricity-addons/electricity-addons.php:168
+msgid "PHP"
+msgstr ""
+
+#: ../electricity-addons/functions.php:9
+#: ../electricity-addons/widgets/elec-coupon.php:86
+#: ../vc_element/vc_map_action_button.php:73
+#: ../vc_element/vc_map_counter_block.php:8
+#: ../vc_element/vc_map_latest_news.php:7 ../vc_element/vc_map_price_box.php:15
+#: ../vc_element/vc_map_price_box.php:34
+#: ../vc_element/vc_map_testimonials.php:7
+#: ../vc_element/vc_map_testimonials.php:126
+#: ../vc_element/vc_map_youtube_embed.php:8
+msgid "Electrician"
+msgstr ""
+
+#: ../electricity-addons/functions.php:23
+msgid "Img"
+msgstr ""
+
+#: ../electricity-addons/functions.php:134
+#, php-format
+msgid "This input field has support for the following HTML tags: %1$s"
+msgstr ""
+
+#: ../electricity-addons/functions.php:215
+#: ../electricity-addons/widgets/elec-nivo-slider.php:200
+#: ../electricity-addons/widgets/elec-our-services.php:139
+#: ../vc_element/vc_map_counter_block.php:24
+#: ../vc_element/vc_map_counter_block.php:34
+#: ../vc_element/vc_map_counter_block.php:48
+#: ../vc_element/vc_map_counter_block.php:59
+#: ../vc_element/vc_map_counter_block.php:66
+#: ../vc_element/vc_map_counter_block.php:80
+#: ../vc_element/vc_map_counter_block.php:91
+#: ../vc_element/vc_map_latest_news.php:23
+#: ../vc_element/vc_map_latest_news.php:33
+#: ../vc_element/vc_map_latest_news.php:47
+#: ../vc_element/vc_map_latest_news.php:58
+#: ../vc_element/vc_map_latest_news.php:65
+#: ../vc_element/vc_map_latest_news.php:79
+#: ../vc_element/vc_map_latest_news.php:90
+#: ../vc_element/vc_map_testimonials.php:49
+#: ../vc_element/vc_map_testimonials.php:59
+#: ../vc_element/vc_map_testimonials.php:73
+#: ../vc_element/vc_map_testimonials.php:84
+#: ../vc_element/vc_map_testimonials.php:91
+#: ../vc_element/vc_map_testimonials.php:105
+#: ../vc_element/vc_map_testimonials.php:116
+msgid "Slider Settings"
+msgstr ""
+
+#: ../electricity-addons/functions.php:222
+#: ../electricity-addons/functions.php:231
+#: ../electricity-addons/widgets/elec-our-services.php:155
+#: ../electricity-addons/widgets/elec-our-services.php:164
+msgid "Slides To Show"
+msgstr ""
+
+#: ../electricity-addons/functions.php:240
+#: ../electricity-addons/widgets/elec-nivo-slider.php:225
+#: ../electricity-addons/widgets/elec-our-services.php:173
+msgid "Infinite"
+msgstr ""
+
+#: ../electricity-addons/functions.php:249
+#: ../electricity-addons/widgets/elec-nivo-slider.php:234
+#: ../electricity-addons/widgets/elec-our-services.php:182
+msgid "Autoplay"
+msgstr ""
+
+#: ../electricity-addons/functions.php:258
+#: ../electricity-addons/widgets/elec-our-services.php:191
+#: ../electricity-addons/widgets/electrician_services_slider.php:197
+#: ../vc_element/vc_map_counter_block.php:64
+#: ../vc_element/vc_map_latest_news.php:63
+#: ../vc_element/vc_map_testimonials.php:89
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../electricity-addons/functions.php:267
+#: ../electricity-addons/widgets/elec-our-services.php:200
+msgid "Array"
+msgstr ""
+
+#: ../electricity-addons/functions.php:276
+#: ../electricity-addons/widgets/elec-our-services.php:209
+msgid "Dots"
+msgstr ""
+
+#: ../electricity-addons/functions.php:394
+msgid "No contect From 7 form found"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:19
+#: ../electricity-addons/widgets/electrician_about_two.php:92
+msgid "About Us"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:35
+#: ../electricity-addons/widgets/elec-about-us.php:98
+#: ../electricity-addons/widgets/elec-action-button.php:34
+#: ../electricity-addons/widgets/elec-banner.php:38
+#: ../electricity-addons/widgets/elec-banner.php:77
+#: ../electricity-addons/widgets/elec-brands.php:100
+#: ../electricity-addons/widgets/elec-bulb.php:113
+#: ../electricity-addons/widgets/elec-count.php:34
+#: ../electricity-addons/widgets/elec-latest-news.php:34
+#: ../electricity-addons/widgets/elec-latest-news.php:78
+#: ../electricity-addons/widgets/elec-map.php:91
+#: ../electricity-addons/widgets/elec-map.php:120
+#: ../electricity-addons/widgets/elec-nivo-slider.php:117
+#: ../electricity-addons/widgets/elec-our-services-page.php:36
+#: ../electricity-addons/widgets/elec-our-services-page.php:123
+#: ../electricity-addons/widgets/elec-our-services.php:33
+#: ../electricity-addons/widgets/elec-our-services.php:94
+#: ../electricity-addons/widgets/elec-price-table.php:33
+#: ../electricity-addons/widgets/elec-price.php:36
+#: ../electricity-addons/widgets/elec-request-block.php:97
+#: ../electricity-addons/widgets/elec-service-page-footer.php:33
+#: ../electricity-addons/widgets/elec-service-page-footer.php:52
+#: ../electricity-addons/widgets/elec-services.php:87
+#: ../electricity-addons/widgets/elec-testimonials-1.php:97
+#: ../electricity-addons/widgets/elec-title.php:33
+#: ../electricity-addons/widgets/elec-work-category.php:36
+#: ../electricity-addons/widgets/elec-work-category.php:86
+#: ../electricity-addons/widgets/elect-services-text.php:34
+#: ../electricity-addons/widgets/elect-services-text.php:41
+#: ../electricity-addons/widgets/electrician_about_two.php:108
+#: ../electricity-addons/widgets/electrician_advantages.php:81
+#: ../electricity-addons/widgets/electrician_certificates.php:67
+#: ../electricity-addons/widgets/electrician_contact_form.php:62
+#: ../electricity-addons/widgets/electrician_contact_info.php:51
+#: ../electricity-addons/widgets/electrician_service_banner.php:100
+#: ../electricity-addons/widgets/electrician_services_slider.php:95
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:98
+#: ../electricity-addons/widgets/electrician_video.php:63
+#: ../electricity-addons/widgets/our-advantages.php:34
+msgid "Content"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:42
+#: ../electricity-addons/widgets/elec-testimonials-1.php:104
+#: ../vc_element/vc_map_testimonials.php:15
+msgid "Style"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:46
+#: ../electricity-addons/widgets/elec-banner.php:49
+#: ../electricity-addons/widgets/elec-brands.php:110
+#: ../electricity-addons/widgets/elec-bulb.php:124
+#: ../electricity-addons/widgets/elec-count.php:45
+#: ../electricity-addons/widgets/elec-coupon.php:47
+#: ../electricity-addons/widgets/elec-faqs.php:44
+#: ../electricity-addons/widgets/elec-nivo-slider.php:128
+#: ../electricity-addons/widgets/elec-our-services-page.php:46
+#: ../electricity-addons/widgets/elec-price-table.php:43
+#: ../electricity-addons/widgets/elec-price.php:46
+#: ../electricity-addons/widgets/elec-request-block.php:108
+#: ../electricity-addons/widgets/elec-work-category.php:47
+#: ../electricity-addons/widgets/electrician_about_two.php:49
+#: ../electricity-addons/widgets/electrician_project.php:46
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:52
+msgid "Style 1"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:47
+#: ../electricity-addons/widgets/elec-banner.php:50
+#: ../electricity-addons/widgets/elec-brands.php:111
+#: ../electricity-addons/widgets/elec-bulb.php:125
+#: ../electricity-addons/widgets/elec-count.php:46
+#: ../electricity-addons/widgets/elec-coupon.php:48
+#: ../electricity-addons/widgets/elec-faqs.php:45
+#: ../electricity-addons/widgets/elec-nivo-slider.php:129
+#: ../electricity-addons/widgets/elec-our-services-page.php:47
+#: ../electricity-addons/widgets/elec-price-table.php:44
+#: ../electricity-addons/widgets/elec-price.php:47
+#: ../electricity-addons/widgets/elec-request-block.php:109
+#: ../electricity-addons/widgets/elec-work-category.php:48
+#: ../electricity-addons/widgets/electrician_about_two.php:50
+#: ../electricity-addons/widgets/electrician_project.php:47
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:53
+msgid "Style 2"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:55
+msgid "Ifram URL"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:66
+#: ../electricity-addons/widgets/elec-banner.php:68
+#: ../electricity-addons/widgets/elec-coupon.php:63
+#: ../electricity-addons/widgets/elec-gallery.php:42
+#: ../electricity-addons/widgets/elec-our-services-page.php:54
+#: ../electricity-addons/widgets/elec-our-services.php:39
+#: ../electricity-addons/widgets/elec-price-table.php:60
+#: ../electricity-addons/widgets/elec-price.php:85
+#: ../electricity-addons/widgets/elec-services.php:93
+#: ../electricity-addons/widgets/elec-testimonials-1.php:117
+#: ../electricity-addons/widgets/elec-testimonials-1.php:127
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:115
+#: ../electricity-addons/widgets/our-advantages.php:40
+msgid "Title 1"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:69
+msgid "About <b>Us</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:76
+#: ../electricity-addons/widgets/elec-coupon.php:73
+#: ../electricity-addons/widgets/elec-gallery.php:52
+#: ../electricity-addons/widgets/elec-latest-news.php:70
+#: ../electricity-addons/widgets/elec-our-services-page.php:64
+#: ../electricity-addons/widgets/elec-our-services.php:60
+#: ../electricity-addons/widgets/elec-price-table.php:71
+#: ../electricity-addons/widgets/elec-price.php:95
+#: ../electricity-addons/widgets/elec-services.php:103
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:125
+#: ../electricity-addons/widgets/our-advantages.php:51
+msgid "Title 2"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:79
+msgid ""
+"We are locally owned and operated which makes our services causal as they "
+"are done by friendly and helpful technicians."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:86
+#: ../electricity-addons/widgets/elec-latest-news.php:51
+#: ../electricity-addons/widgets/elec-our-services-page.php:102
+#: ../electricity-addons/widgets/elec-work-category.php:57
+#: ../electricity-addons/widgets/electrician_certificates.php:81
+#: ../electricity-addons/widgets/electrician_project.php:130
+#: ../electricity-addons/widgets/electrician_service_banner.php:52
+#: ../electricity-addons/widgets/electrician_services_slider.php:140
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:169
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:162
+#: ../electricity-addons/widgets/electrician_why_us.php:79
+#: ../electricity-addons/widgets/our-advantages.php:64
+msgid "Image"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:100
+#, php-format
+msgid ""
+"All of our services are backed by our 100% satisfaction guarantee. Our "
+"electricians can install anything from new security lighting for your "
+"outdoors to a whole home generator that will keep your appliances working "
+"during a power outage. Our installation services are always done promptly "
+"and safely."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:107
+msgid "Certificates Section"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:117
+msgid "Show Section"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:119
+#: ../electricity-addons/widgets/elec-price-table.php:83
+#: ../electricity-addons/widgets/elec-price-table.php:102
+#: ../electricity-addons/widgets/elec-price-table.php:121
+msgid "Show"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:120
+#: ../electricity-addons/widgets/elec-price-table.php:84
+#: ../electricity-addons/widgets/elec-price-table.php:103
+#: ../electricity-addons/widgets/elec-price-table.php:122
+msgid "Hide"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:130
+#: ../electricity-addons/widgets/elec-brands.php:118
+#: ../electricity-addons/widgets/elec-bulb.php:141
+#: ../electricity-addons/widgets/elec-count.php:83
+#: ../electricity-addons/widgets/elec-coupon.php:109
+#: ../electricity-addons/widgets/elec-faqs.php:60
+#: ../electricity-addons/widgets/elec-faqs.php:71
+#: ../electricity-addons/widgets/elec-gallery.php:77
+#: ../electricity-addons/widgets/elec-latest-news.php:40
+#: ../electricity-addons/widgets/elec-map.php:107
+#: ../electricity-addons/widgets/elec-map.php:114
+#: ../electricity-addons/widgets/elec-our-services-page.php:113
+#: ../electricity-addons/widgets/elec-our-services.php:84
+#: ../electricity-addons/widgets/elec-price-table.php:141
+#: ../electricity-addons/widgets/elec-price.php:116
+#: ../electricity-addons/widgets/elec-request-block.php:117
+#: ../electricity-addons/widgets/elec-service-page-footer.php:42
+#: ../electricity-addons/widgets/elec-testimonials-1.php:152
+#: ../electricity-addons/widgets/elec-work-category.php:68
+#: ../electricity-addons/widgets/electrician-blog.php:105
+#: ../electricity-addons/widgets/electrician-blog.php:139
+#: ../electricity-addons/widgets/electrician_about_two.php:99
+#: ../electricity-addons/widgets/electrician_advantages.php:49
+#: ../electricity-addons/widgets/electrician_advantages.php:72
+#: ../electricity-addons/widgets/electrician_certificates.php:58
+#: ../electricity-addons/widgets/electrician_contact_form.php:53
+#: ../electricity-addons/widgets/electrician_contact_info.php:42
+#: ../electricity-addons/widgets/electrician_service_banner.php:73
+#: ../electricity-addons/widgets/electrician_services_slider.php:86
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:137
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:123
+#: ../electricity-addons/widgets/electrician_video.php:51
+#: ../electricity-addons/widgets/electrician_why_us.php:59
+#: ../electricity-addons/widgets/our-advantages.php:75
+#: ../vc_element/vc_map_latest_news.php:109
+#: ../vc_element/vc_map_service_item.php:47
+#: ../vc_element/vc_map_testimonials.php:134 ../widget/footer_google_map.php:27
+#: ../widget/sevice_contact_address.php:33
+#: ../widgets/smart-contact-list-widget.php:33
+#: ../widgets/smart-posts-grid-widget.php:33
+msgid "Title"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:133
+#: ../electricity-addons/widgets/electrician_certificates.php:51
+msgid "Certificates"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:141
+msgid "Footer Image 1"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:153
+msgid "Footer Image 2"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:165
+#: ../electricity-addons/widgets/elec-coupon.php:134
+#: ../electricity-addons/widgets/elec-latest-news.php:85
+#: ../electricity-addons/widgets/elec-our-services-page.php:83
+#: ../electricity-addons/widgets/elec-our-services-page.php:139
+#: ../electricity-addons/widgets/elec-price.php:162
+#: ../electricity-addons/widgets/elec-services.php:131
+#: ../electricity-addons/widgets/elec-work-category.php:94
+#: ../electricity-addons/widgets/electrician_services_slider.php:107
+#: ../electricity-addons/widgets/electrician_video.php:75
+msgid "Button Text"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:167
+msgid "Know more"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-about-us.php:175
+#: ../electricity-addons/widgets/elec-brands.php:141
+#: ../electricity-addons/widgets/elec-latest-news.php:93
+#: ../electricity-addons/widgets/elec-our-services-page.php:147
+#: ../electricity-addons/widgets/elec-services.php:140
+msgid "Action Button"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:18
+msgid "Elec Action Button"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:41
+msgid "Button Style"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:45
+msgid "Style 01"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:46
+msgid "Style 02"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:54
+#: ../vc_element/vc_map_price_box.php:101
+#: ../widget/sevice_contact_address.php:72
+msgid "Button Title"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:57
+#: ../electricity-addons/widgets/elect-services-text.php:53
+msgid "Order Service Now"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:64
+#: ../electricity-addons/widgets/elec-banner.php:119
+#: ../electricity-addons/widgets/elect-services-text.php:60
+#: ../vc_element/vc_map_action_button.php:31
+#: ../vc_element/vc_map_price_box.php:91
+msgid "Button Action"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:68
+#: ../electricity-addons/widgets/elec-banner.php:123
+#: ../electricity-addons/widgets/elect-services-text.php:64
+msgid "Popup"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:69
+#: ../electricity-addons/widgets/elec-action-button.php:78
+#: ../electricity-addons/widgets/elec-banner.php:124
+#: ../electricity-addons/widgets/elec-banner.php:135
+#: ../electricity-addons/widgets/elect-services-text.php:65
+#: ../electricity-addons/widgets/elect-services-text.php:73
+msgid "Link"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:70
+msgid "Modal"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:81
+#: ../electricity-addons/widgets/electrician_services_slider.php:118
+#: ../electricity-addons/widgets/electrician_video.php:85
+msgid "https://your-link.com"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:94
+#: ../electricity-addons/widgets/elec-banner.php:152
+#: ../electricity-addons/widgets/elec-contacts.php:37
+#: ../electricity-addons/widgets/elec-coupon.php:144
+#: ../electricity-addons/widgets/elec-price.php:172
+#: ../electricity-addons/widgets/elect-services-text.php:87
+#: ../electricity-addons/widgets/electrician_contact_form.php:73
+msgid "Select Contact Form"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:95
+#: ../electricity-addons/widgets/elec-banner.php:153
+#: ../electricity-addons/widgets/elec-contacts.php:38
+#: ../electricity-addons/widgets/elec-coupon.php:145
+#: ../electricity-addons/widgets/elec-price.php:173
+#: ../electricity-addons/widgets/elect-services-text.php:88
+#: ../electricity-addons/widgets/electrician_contact_form.php:74
+msgid ""
+"Contact form 7 - plugin must be installed and there must be some contact "
+"forms made with the contact form 7"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:110
+#: ../vc_element/vc_map_action_button.php:55
+msgid "Pop Up Location To Open"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:114
+msgid "Top"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:115
+msgid "Buttom"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:124
+msgid "Modal Id"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:134
+#: ../electricity-addons/widgets/elec-our-services.php:73
+#: ../electricity-addons/widgets/elec-price.php:106
+#: ../electricity-addons/widgets/electrician_about_two.php:181
+#: ../electricity-addons/widgets/electrician_advantages.php:93
+#: ../electricity-addons/widgets/electrician_contact_info.php:63
+#: ../electricity-addons/widgets/electrician_services_slider.php:132
+#: ../vc_element/vc_map_action_button.php:86
+#: ../vc_element/vc_map_action_button.php:103
+#: ../vc_element/vc_map_action_button.php:120
+#: ../vc_element/vc_map_action_button.php:137
+#: ../vc_element/vc_map_action_button.php:153
+#: ../vc_element/vc_map_action_button.php:170
+#: ../vc_element/vc_map_action_button.php:189
+msgid "Icon"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-action-button.php:145
+#: ../electricity-addons/widgets/elec-work-category.php:137
+#: ../vc_element/vc_map_counter_block.php:16 ../vc_element/vc_map_coupns.php:24
+#: ../vc_element/vc_map_latest_news.php:15
+#: ../vc_element/vc_map_latest_news.php:142
+#: ../vc_element/vc_map_service_item.php:15
+#: ../vc_element/vc_map_service_item.php:66
+msgid "Extra Class"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-banner.php:22
+msgid "Banner"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-banner.php:45
+#: ../electricity-addons/widgets/elec-brands.php:106
+#: ../electricity-addons/widgets/elec-bulb.php:120
+#: ../electricity-addons/widgets/elec-count.php:41
+#: ../electricity-addons/widgets/elec-coupon.php:43
+#: ../electricity-addons/widgets/elec-faqs.php:40
+#: ../electricity-addons/widgets/elec-nivo-slider.php:124
+#: ../electricity-addons/widgets/elec-our-services-page.php:42
+#: ../electricity-addons/widgets/elec-price-table.php:39
+#: ../electricity-addons/widgets/elec-price.php:42
+#: ../electricity-addons/widgets/elec-request-block.php:104
+#: ../electricity-addons/widgets/elec-work-category.php:43
+#: ../electricity-addons/widgets/electrician_about_two.php:45
+msgid "Layout Style"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-banner.php:57
+#: ../electricity-addons/widgets/electrician_services_slider.php:57
+msgid "Banckground Shape"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-banner.php:70
+msgid "<span class=\"light\">Do you need help with</span>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-banner.php:79
+msgid "Contact us – our technicians are ready to help you solve that issue."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-banner.php:86
+msgid "Button 1"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-banner.php:89
+msgid "Give Us A Call"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-banner.php:96
+msgid "Button 1 Link"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-banner.php:109
+msgid "Button 2"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-banner.php:112
+msgid "Request A Free Estimate"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-brands.php:53
+msgid "Brands"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-brands.php:120
+msgid "Trusted <b>By</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-brands.php:130
+msgid "Brand image"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-brands.php:154
+msgid "Brand List"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:50
+msgid "Team"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:132
+#: ../electricity-addons/widgets/elec-coupon.php:55
+#: ../electricity-addons/widgets/elec-faqs.php:52
+#: ../electricity-addons/widgets/elec-price-table.php:51
+#: ../electricity-addons/widgets/electrician_advantages.php:40
+#: ../electricity-addons/widgets/electrician_certificates.php:49
+#: ../electricity-addons/widgets/electrician_contact_form.php:44
+#: ../electricity-addons/widgets/electrician_project.php:54
+#: ../electricity-addons/widgets/electrician_service_banner.php:64
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:105
+#: ../electricity-addons/widgets/electrician_why_us.php:50
+msgid "Tagline"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:134
+msgid "Our Team"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:143
+msgid "Fully Qualified Electricians"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:150
+#: ../electricity-addons/widgets/elec-price.php:76
+#: ../electricity-addons/widgets/electrician-blog.php:96
+#: ../electricity-addons/widgets/electrician_about_two.php:90
+#: ../electricity-addons/widgets/electrician_advantages.php:58
+msgid "Subtitle"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:153
+msgid ""
+"All our personnel operate within an Integrated Management System to ensure "
+"the delivery of services that are at an exception level of quality, "
+"reliability, and value"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:154
+#: ../electricity-addons/widgets/electrician_about_two.php:112
+#: ../electricity-addons/widgets/electrician_about_two.php:130
+#: ../electricity-addons/widgets/electrician_advantages.php:62
+#: ../electricity-addons/widgets/electrician_advantages.php:85
+#: ../electricity-addons/widgets/electrician_certificates.php:71
+#: ../electricity-addons/widgets/electrician_contact_form.php:66
+#: ../electricity-addons/widgets/electrician_contact_info.php:55
+#: ../electricity-addons/widgets/electrician_service_banner.php:104
+#: ../electricity-addons/widgets/electrician_services_slider.php:99
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:95
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:145
+#: ../electricity-addons/widgets/electrician_video.php:55
+#: ../electricity-addons/widgets/electrician_video.php:67
+#: ../electricity-addons/widgets/electrician_why_us.php:71
+msgid "Type your description here"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:161
+msgid "Used Home Page"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:163
+msgid "Yes"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:164
+msgid "No"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:173
+msgid "Enable Slider"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:177
+#: ../electricity-addons/widgets/elec-price.php:56
+#: ../electricity-addons/widgets/elec-testimonials-1.php:108
+msgid "Slider"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:178
+#: ../electricity-addons/widgets/elec-price.php:57
+#: ../electricity-addons/widgets/elec-testimonials-1.php:109
+msgid "Grid"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:186
+#: ../vc_element/vc_map_coupns.php:18
+msgid "Column No"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:190
+#: ../electricity-addons/widgets/elec-coupon.php:125
+msgid "2"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:191
+msgid "3"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:192
+#: ../electricity-addons/widgets/elec-coupon.php:126
+msgid "4"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:201 ../lib/vc_shortcodes.php:105
+msgid "Mask Image"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:214
+#: ../electricity-addons/widgets/elec-nivo-slider.php:147
+msgid "Slider image"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:225
+#: ../electricity-addons/widgets/elec-nivo-slider.php:158
+msgid "Title one"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:233
+#: ../electricity-addons/widgets/elec-nivo-slider.php:166
+#: ../electricity-addons/widgets/elec-request-block.php:127
+msgid "Title two"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:241
+msgid "URL"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:248
+#: ../electricity-addons/widgets/elec-nivo-slider.php:175
+#: ../electricity-addons/widgets/elec-testimonials-1.php:177
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:180
+msgid "Slider List"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:253
+msgid "Switch ON<br> Higher <b>Standards</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:254
+msgid "for quality work and safety"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:257
+msgid "Switch ON<br> Better <b>Solutions</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:258
+msgid "for design and energy saving"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:261
+msgid "Switch ON<br> Personal <b>Commitment</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-bulb.php:262
+msgid "for your comfort and security"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-contacts.php:17
+msgid "Contact From 7"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-contacts.php:31
+msgid "electrician Contact Form 7"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:18
+msgid "Counter Box"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:53
+#: ../electricity-addons/widgets/electrician_project.php:71
+#: ../electricity-addons/widgets/electrician_services_slider.php:40
+msgid "Sub Heading"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:61
+#: ../electricity-addons/widgets/electrician_project.php:63
+#: ../electricity-addons/widgets/electrician_services_slider.php:49
+#: ../vc_element/vc_map_testimonials.php:26
+msgid "Heading"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:69
+#: ../electricity-addons/widgets/electrician_service_banner.php:40
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:71
+#: ../electricity-addons/widgets/electrician_why_us.php:39
+msgid "Background Shape"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:92
+msgid "Counter Value"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:101
+msgid "Speed"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:111
+#: ../electricity-addons/widgets/elec-faqs.php:100
+#: ../electricity-addons/widgets/elec-our-services-page.php:160
+#: ../electricity-addons/widgets/elec-our-services.php:103
+#: ../electricity-addons/widgets/elec-price-table.php:168
+#: ../electricity-addons/widgets/elec-price.php:184
+#: ../electricity-addons/widgets/elec-service-page-footer.php:61
+#: ../electricity-addons/widgets/elec-work-category.php:118
+#: ../electricity-addons/widgets/our-advantages.php:85
+msgid "Item List"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:117
+msgid "Residential Projects Done"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:121
+msgid "Commercial Projects Done"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:125
+msgid "Industrial Projects Done"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-count.php:129
+msgid "Team Members"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:21
+#: ../electricity-addons/widgets/elec-coupon.php:37
+#: ../electricity-addons/widgets/elec-coupon.php:57
+#: ../post_type/custom-post-coupon.php:7 ../post_type/custom-post-coupon.php:9
+msgid "Coupons"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:66
+msgid "Coupons &amp; <b>Special Offers</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:76
+msgid ""
+"The electrical coupons for electrical services is how Electrician shows "
+"their customers how much <br>they are valued"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:83
+msgid "Logo Text"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:93
+#: ../electricity-addons/widgets/electrician-blog.php:123
+msgid "Number of Post"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:102
+#: ../electricity-addons/widgets/elec-gallery.php:70
+#: ../electricity-addons/widgets/electrician-blog.php:132
+msgid "Order By"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:106
+#: ../electricity-addons/widgets/elec-gallery.php:74
+#: ../electricity-addons/widgets/elec-latest-news.php:61
+#: ../electricity-addons/widgets/electrician-blog.php:136
+#: ../vc_element/vc_map_latest_news.php:117
+#: ../widgets/smart-posts-grid-widget.php:40
+msgid "Date"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:107
+#: ../electricity-addons/widgets/elec-gallery.php:75
+#: ../electricity-addons/widgets/electrician-blog.php:137
+#: ../widgets/smart-posts-grid-widget.php:39
+msgid "ID"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:108
+#: ../electricity-addons/widgets/elec-gallery.php:76
+#: ../electricity-addons/widgets/electrician-blog.php:138
+msgid "Author"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:110
+#: ../electricity-addons/widgets/elec-gallery.php:78
+#: ../electricity-addons/widgets/electrician-blog.php:140
+msgid "Modified"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:111
+#: ../electricity-addons/widgets/elec-gallery.php:79
+#: ../electricity-addons/widgets/electrician-blog.php:141
+#: ../widgets/smart-posts-grid-widget.php:42
+msgid "Random"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:112
+#: ../electricity-addons/widgets/elec-gallery.php:80
+#: ../electricity-addons/widgets/electrician-blog.php:142
+msgid "Comment count"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:113
+#: ../electricity-addons/widgets/elec-gallery.php:81
+#: ../electricity-addons/widgets/electrician-blog.php:143
+msgid "Menu order"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:121
+msgid "Column"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:137
+#: ../electricity-addons/widgets/elec-our-services-page.php:85
+msgid "Schedule for Service"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-coupon.php:214
+#: ../electricity-addons/widgets/elec-coupon.php:314
+#: ../shortcode/shortcode_coupon.php:66
+msgid "Print Now!"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:18
+msgid "Faqs"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:34
+msgid "FAQ List"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:54
+msgid "Your Questions. Our Answers"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:63
+msgid "Frequently Asked <b>Questions</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:64
+#: ../electricity-addons/widgets/elec-faqs.php:85
+#: ../electricity-addons/widgets/elec-faqs.php:93
+#: ../electricity-addons/widgets/elec-our-services-page.php:57
+#: ../electricity-addons/widgets/elec-our-services-page.php:68
+#: ../electricity-addons/widgets/elec-our-services-page.php:116
+#: ../electricity-addons/widgets/elec-our-services-page.php:125
+#: ../electricity-addons/widgets/elec-our-services.php:43
+#: ../electricity-addons/widgets/elec-our-services.php:64
+#: ../electricity-addons/widgets/elec-our-services.php:87
+#: ../electricity-addons/widgets/elec-our-services.php:96
+#: ../electricity-addons/widgets/elec-price-table.php:64
+#: ../electricity-addons/widgets/elec-price-table.php:75
+#: ../electricity-addons/widgets/elec-price-table.php:144
+#: ../electricity-addons/widgets/elec-price.php:119
+#: ../electricity-addons/widgets/elec-service-page-footer.php:45
+#: ../electricity-addons/widgets/elec-service-page-footer.php:54
+#: ../electricity-addons/widgets/elec-work-category.php:71
+#: ../electricity-addons/widgets/our-advantages.php:44
+#: ../electricity-addons/widgets/our-advantages.php:55
+#: ../electricity-addons/widgets/our-advantages.php:78
+msgid "Type your title here"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:74
+msgid ""
+"You will find answers to all of your most common Electrical Services related "
+"questions located here."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:82
+msgid "Question"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:91
+msgid "Answere"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:105
+msgid "Does conduit need to go inside the transformer box?"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:106
+msgid "No. Conduit should be stopped just short of the box."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:109
+msgid "How close to the pole do I bring my conduit to?"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:110
+msgid "The top of the elbow must be 6\" from the pole.."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:113
+msgid "Is additional conduit required beyond what is installed in the ditch?"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:115
+msgid ""
+"If the service is being supplied from a utility pole, the member is required "
+"to supply 1-10 section of SCH 80 PVC and 2-10 sections of SCH 40 PVC to be "
+"left near the base of the pole for installation by the power company up the "
+"pole.\n"
+"                                    "
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:121
+msgid "Does someone need to inspect the ditch before covering the conduit?"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-faqs.php:122
+msgid ""
+"Yes, contact the power company and a representative will come and inspect "
+"the ditch and conduit. The representative will place a white sticker on the "
+"meter panel with a pass or fail notice."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-gallery.php:19
+#: ../electricity-addons/widgets/elec-gallery.php:35
+#: ../lib/sds_cpt_gallery.php:7 ../lib/sds_cpt_gallery.php:8
+msgid "Gallery"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-gallery.php:45
+msgid "Our <b>Gallery</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-gallery.php:54
+#: ../electricity-addons/widgets/electrician_project.php:73
+msgid ""
+"You will really enjoy doing business with us! Fast, electrical estimates at "
+"a competitive price. We save you time and money. Interested? Check out our "
+"photos."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-gallery.php:61
+msgid "Number of Gallery"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-gallery.php:89
+#: ../electricity-addons/widgets/electrician-blog.php:151
+msgid "Order"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-gallery.php:93
+#: ../electricity-addons/widgets/electrician-blog.php:155
+msgid "DESC"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-gallery.php:94
+#: ../electricity-addons/widgets/electrician-blog.php:156
+msgid "ASC"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-gallery.php:138
+#: ../electricity-addons/widgets/elec-our-services-page.php:77
+#: ../electricity-addons/widgets/electrician_project.php:82
+#: ../lib/vc_shortcodes.php:404
+msgid "All"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-gallery.php:191
+#: ../lib/vc_shortcodes.php:461
+msgid "View"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-latest-news.php:19
+#: ../electricity-addons/widgets/electrician-blog.php:99
+#: ../vc_element/vc_map_latest_news.php:4
+msgid "Latest News"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-latest-news.php:43
+msgid "What’s <b>New</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-latest-news.php:87
+#: ../electricity-addons/widgets/elec-our-services-page.php:141
+#: ../shortcode/shortcode_latest_news.php:60
+#: ../widgets/smart-posts-grid-widget.php:121
+msgid "Read more"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-latest-news.php:105
+msgid "News List"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-latest-news.php:110
+#: ../electricity-addons/widgets/elec-latest-news.php:115
+msgid "May 1, 2017"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-latest-news.php:111
+msgid "Solar Cells With Nanostripes"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-latest-news.php:112
+msgid ""
+"May 2, 2017 — Solar cells based on perovskites reach high efficiencies: they "
+"convert more than 20 percent of the incident light directly into usable "
+"power."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-latest-news.php:116
+msgid "A Glow Stick That Detects Cancer?"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-latest-news.php:117
+msgid ""
+"A new mechanism produces a water- resistant chemiluminescent probe that is "
+"3,000-times-brighter than those currently..."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:45
+msgid "Maps"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:97
+msgid "Embed Map"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:127
+msgid "List"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:132
+msgid "<span>Address:</span>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:133
+msgid "1531 Moonlight Drive, Maple Shade, NJ"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:136
+msgid "<span>E-mail:</span>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:137
+msgid "info@yourdomain.com"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:140
+msgid "<span>Phone:</span>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:141
+msgid "1 (609) 123-45-67"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:144
+msgid "Mon-Fri:"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-map.php:145
+msgid "8:00 AM - 8:00 PM, Sat-Sun"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:50
+msgid "Main Slider"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:137
+msgid "Choose Slider preloader image"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:180
+msgid "We’re the Current<br>Specialist!"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:181
+msgid "keeping you wired"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:184
+msgid "Best Services for<br>Your Family"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:185
+msgid "making our clients happier"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:188
+msgid "Nothing is<br>Impossible for Us"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:189
+msgid "we can light everything"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:207
+msgid "Anim Speed"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:216
+msgid "Pause Time"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-nivo-slider.php:243
+msgid "Direction Nav"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:20
+msgid "Our Services Page"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:56
+#: ../electricity-addons/widgets/elec-our-services.php:42
+msgid "Our <b>Services</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:67
+msgid ""
+"We offer a variety of electrical services for both residential and "
+"commercial properties, including upgrades, repairs, replacements, and "
+"installations"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:75
+#: ../electricity-addons/widgets/electrician_project.php:80
+msgid "1st Tab Item"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:92
+#: ../electricity-addons/widgets/electrician_project.php:98
+#: ../electricity-addons/widgets/electrician_video.php:83
+msgid "Button Link"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:131
+#: ../electricity-addons/widgets/electrician-blog.php:115
+#: ../electricity-addons/widgets/electrician_project.php:121
+msgid "Category"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:133
+msgid "Commercial Services"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:165
+#: ../electricity-addons/widgets/elec-our-services.php:108
+msgid "Electrical"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:166
+#: ../electricity-addons/widgets/elec-our-services.php:109
+msgid "Wiring, Remodels and Additions, Heat detectors"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:169
+#: ../electricity-addons/widgets/elec-our-services.php:112
+msgid "Heating"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:170
+#: ../electricity-addons/widgets/elec-our-services.php:113
+msgid "Trust our professionals to listen to your needs and problems"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:173
+#: ../electricity-addons/widgets/elec-our-services.php:116
+msgid "Air Conditioning"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:174
+#: ../electricity-addons/widgets/elec-our-services.php:117
+msgid "Then present you with options that fit your budget and designs"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:177
+#: ../electricity-addons/widgets/elec-our-services.php:120
+msgid "Security Systems"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:178
+#: ../electricity-addons/widgets/elec-our-services.php:121
+msgid "You can view events over a monitor in our home"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:181
+#: ../electricity-addons/widgets/elec-our-services.php:124
+msgid "Panels Changes"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:182
+#: ../electricity-addons/widgets/elec-our-services.php:125
+msgid "IPrices that meet your needs and budget"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:185
+#: ../electricity-addons/widgets/elec-our-services.php:128
+msgid "Trouble Shooting"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services-page.php:186
+#: ../electricity-addons/widgets/elec-our-services.php:129
+msgid "We think before we start working to save you money"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services.php:17
+#: ../electricity-addons/widgets/electrician_service_banner.php:66
+msgid "Our Services"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services.php:50
+#: ../widget/sevice_contact_address.php:57
+#: ../widgets/smart-contact-list-widget.php:43
+msgid "Phone"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services.php:53
+#: ../electricity-addons/widgets/electrician_service_banner.php:123
+msgid "1 (800) 765-43-21"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services.php:63
+msgid ""
+"Never hesitate when it comes to potential electrical problems. Electrical "
+"issues can quickly develop into major catastrophes."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-our-services.php:146
+msgid "Enable Mobile First"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:17
+msgid "Price Table"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:53
+msgid "Our Rates"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:63
+msgid "Our <b>Prices</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:74
+msgid "All of our prices include labour and materials but exclude VAT."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:81
+msgid "Column 1"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:92
+msgid "Column 1 Heading"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:94
+msgid "Common Job"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:100
+msgid "Column 2"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:111
+msgid "Column 2 Heading"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:113
+msgid "Cost*"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:119
+msgid "Column 3"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:130
+msgid "Column 3 Heading"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:132
+#: ../electricity-addons/widgets/elec-price-table.php:223
+msgid "Description"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:151
+#: ../electricity-addons/widgets/elec-price.php:21
+#: ../electricity-addons/widgets/elec-price.php:136
+msgid "Price"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:160
+#: ../electricity-addons/widgets/elec-price.php:154
+msgid "Include"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:173
+msgid "Install ceiling fan"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:174
+msgid "$100"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:175
+msgid "You supply ceiling fan to suit your home."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:179
+msgid "Supply ceiling fan"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:180
+msgid "$75"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:181
+msgid "You supply house to bolt it to."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:185
+msgid "Install new double power"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:186
+msgid "$90"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:187
+msgid "Includes labour, cable, gpo, everything"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:197
+msgid "Note"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:200
+msgid ""
+"* Cost* may vary for difficult house. Usually cost is exactly as outlined "
+"above."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:219
+msgid "Common"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price-table.php:221
+msgid "Job Cost*"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:54
+msgid "Slider or Grid?"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:65
+#: ../electricity-addons/widgets/elec-testimonials-1.php:138
+#: ../electricity-addons/widgets/electrician-blog.php:86
+#: ../electricity-addons/widgets/electrician_video.php:40
+msgid "Background"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:79
+msgid "Save on the Service You Need"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:88
+msgid "Maintenance <b>Plans</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:98
+msgid "Rest easy with a Maintenance Plans from our company"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:126
+msgid "Currency"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:145
+msgid "Period"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:148
+msgid "/ mo"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:165
+msgid "Order Now"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:189
+msgid "Commercial Service"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:190
+#: ../electricity-addons/widgets/elec-price.php:198
+msgid "89"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:193
+msgid "Industrial Service"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:194
+msgid "130"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-price.php:197
+msgid "Residential Service"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-request-block.php:50
+msgid "Slider Request Block"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-request-block.php:120
+msgid "Request Service Today"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-service-page-footer.php:17
+msgid "Services Page Footer"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-service-page-footer.php:66
+msgid "We Specialize <b>In</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-service-page-footer.php:69
+msgid "Electrical Lighting <b>Upgrades</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-service-page-footer.php:72
+msgid "Our Electrical <b>Technicians are:</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:20
+#: ../post_type/custom_post_services.php:17
+msgid "Services"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:36
+msgid "Images"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:43
+msgid "Image 1"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:57
+msgid "Image 2"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:71
+msgid "Image 3"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:96
+msgid "Your home comfort experts"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:106
+msgid "<span>Quality</span> Heating & Cooling Services"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:113
+msgid "Content 1"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:115
+msgid ""
+"We provide customers with an industry leading 10-year installation warranty "
+"and a two-year service and repair warranty. With most companies, you will "
+"get a standard manufacturers warranty on installations and a one-year "
+"warranty on service and repair work. "
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:122
+msgid "Content 2"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:124
+msgid ""
+"We believe our warranties set us apart from our competitors and show our "
+"commitment to quality work and service."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-services.php:133
+#: ../electricity-addons/widgets/electrician-blog.php:264
+msgid "Read More"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-testimonials-1.php:50
+msgid "Testimonials"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-testimonials-1.php:120
+msgid "Our Testimonials"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-testimonials-1.php:130
+msgid "Here is what some of our happy customers have had to say about us"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-testimonials-1.php:160
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:145
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:141
+#: ../vc_element/vc_map_testimonials.php:141
+msgid "Review Text"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-testimonials-1.php:168
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:153
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:153
+#: ../vc_element/vc_map_testimonials.php:148
+msgid "Reviewer Name"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-testimonials-1.php:182
+#: ../electricity-addons/widgets/elec-testimonials-1.php:190
+#: ../electricity-addons/widgets/elec-testimonials-1.php:198
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:185
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:193
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:201
+msgid ""
+"Great service. They really helped me out when my heater went out. They made "
+"the service and payment very convenient for me. I highly recommend this "
+"company."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-testimonials-1.php:183
+#: ../electricity-addons/widgets/elec-testimonials-1.php:191
+#: ../electricity-addons/widgets/elec-testimonials-1.php:199
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:186
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:194
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:202
+msgid "Paul Grant"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-testimonials-1.php:186
+#: ../electricity-addons/widgets/elec-testimonials-1.php:194
+#: ../electricity-addons/widgets/elec-testimonials-1.php:202
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:189
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:197
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:205
+msgid ""
+"I love my new heaters. I should have done this years ago. The installation "
+"was done professionally and in the time frame allotted. It was a great "
+"experience."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-testimonials-1.php:187
+#: ../electricity-addons/widgets/elec-testimonials-1.php:195
+#: ../electricity-addons/widgets/elec-testimonials-1.php:203
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:190
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:198
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:206
+msgid "Eldon C. Caron"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-testimonials-1.php:277
+#: ../shortcode/shortcode_testimonials.php:43
+msgid "More Testimonials"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-title.php:18
+msgid "Elec Text Block"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-title.php:40
+#: ../electricity-addons/widgets/electrician_about_two.php:196
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:91
+msgid "Text"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-title.php:43
+msgid "Home Electrical Repair"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-title.php:50
+msgid "HTML Tag"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-work-category.php:20
+msgid "Work Category"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-work-category.php:78
+msgid "Title background Image"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-work-category.php:104
+msgid "Action Button Link"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-work-category.php:110
+msgid "Keep this field empty to toggle show the content on button click."
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-work-category.php:123
+msgid "Commercial"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-work-category.php:126
+msgid "Industrial"
+msgstr ""
+
+#: ../electricity-addons/widgets/elec-work-category.php:129
+msgid "Residential"
+msgstr ""
+
+#: ../electricity-addons/widgets/elect-services-text.php:18
+msgid "Services Text"
+msgstr ""
+
+#: ../electricity-addons/widgets/elect-services-text.php:43
+msgid "Service Content"
+msgstr ""
+
+#: ../electricity-addons/widgets/elect-services-text.php:50
+msgid "Request Form"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician-blog.php:40
+msgid "Electrician Blog"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician-blog.php:80
+msgid "Blog"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician-blog.php:108
+msgid "News & Update"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:23
+msgid "Electrician About Two"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:39
+#: ../electricity-addons/widgets/electrician_advantages.php:33
+#: ../electricity-addons/widgets/electrician_certificates.php:33
+#: ../electricity-addons/widgets/electrician_contact_form.php:37
+#: ../electricity-addons/widgets/electrician_project.php:36
+#: ../electricity-addons/widgets/electrician_service_banner.php:33
+#: ../electricity-addons/widgets/electrician_services_slider.php:33
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:42
+#: ../electricity-addons/widgets/electrician_video.php:33
+#: ../electricity-addons/widgets/electrician_why_us.php:33
+msgid "general"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:57
+msgid "Backdround Shape"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:67
+msgid "Image 01"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:78
+msgid "Image 02"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:101
+msgid "Outstanding Residential & Commercial Services"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:111
+#, php-format
+msgid ""
+"All of our services are backed by our 100% satisfaction guarantee. Our "
+"electricians can install anything from new security lighting for your "
+"outdoors to a whole home generator that will keep your appliances working "
+"during a power outage."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:120
+#: ../electricity-addons/widgets/electrician_why_us.php:68
+msgid "Content List"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:124
+msgid ""
+"<li>Full-service electrical layout, design</li>\n"
+"<li>Wiring and installation/upgrades</li>\n"
+"<li>Emergency power solutions (generators)</li>\n"
+"<li>Virtually any electrical needs you have – just ask!</li>"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:138
+msgid "Author Image"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:150
+msgid "Author Name"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:152
+msgid "Mark Smith"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:159
+msgid "Author Designation"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:161
+msgid "Your own electrician"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:168
+msgid "Author Signature"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:188
+msgid "Number"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_about_two.php:205
+#: ../electricity-addons/widgets/electrician_certificates.php:105
+msgid "Items"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_advantages.php:17
+msgid "Electrician Advantages"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_advantages.php:42
+msgid "Our Advantages"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_advantages.php:51
+msgid "Reasons You Should Call Us"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_advantages.php:61
+msgid ""
+"Electrician is your single source for a complete range of high-quality "
+"electrical services, including design/build, engineering and maintenance."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_advantages.php:74
+#: ../electricity-addons/widgets/our-advantages.php:90
+msgid "24/7 Emergency Services"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_advantages.php:84
+msgid "24/7 emergency electrician you can trust."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_advantages.php:101
+#: ../electricity-addons/widgets/electrician_contact_info.php:71
+#: ../electricity-addons/widgets/electrician_project.php:142
+#: ../electricity-addons/widgets/electrician_services_slider.php:152
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:174
+msgid "Repeater List"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_advantages.php:106
+#: ../electricity-addons/widgets/electrician_certificates.php:110
+#: ../electricity-addons/widgets/electrician_contact_info.php:76
+#: ../electricity-addons/widgets/electrician_project.php:147
+#: ../electricity-addons/widgets/electrician_services_slider.php:157
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:179
+msgid "Title #1"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_advantages.php:107
+#: ../electricity-addons/widgets/electrician_certificates.php:111
+#: ../electricity-addons/widgets/electrician_contact_info.php:77
+#: ../electricity-addons/widgets/electrician_contact_info.php:81
+#: ../electricity-addons/widgets/electrician_project.php:148
+#: ../electricity-addons/widgets/electrician_project.php:152
+#: ../electricity-addons/widgets/electrician_services_slider.php:158
+#: ../electricity-addons/widgets/electrician_services_slider.php:162
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:180
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:184
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_certificates.php:17
+msgid "Electrician Certificates"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_certificates.php:39
+msgid "Backdround"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_certificates.php:60
+msgid "We are a Qualified & Certified Electrical Company"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_certificates.php:70
+msgid ""
+"We currently employ a team of fully qualified electricians and a number of "
+"apprentices. We have been registered with he ECA and therefore all our "
+"electricians are JIB registered. Our aim is to keep our services high and "
+"our prices very competitive."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_certificates.php:93
+msgid "Popup Image"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_contact_form.php:21
+msgid "Electrician Contact Form"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_contact_form.php:46
+msgid "Contact Form"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_contact_form.php:55
+msgid "Get In Touch with Us"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_contact_form.php:65
+msgid ""
+"Are you stumped by a home wiring project or problem? Fill out the form with "
+"the details of your situation and we can come to your aid."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_contact_info.php:17
+msgid "Electrician Contact Info"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_contact_info.php:33
+#: ../electricity-addons/widgets/electrician_project.php:112
+#: ../electricity-addons/widgets/electrician_services_slider.php:77
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:114
+msgid "item"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_contact_info.php:44
+msgid "Address:"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_contact_info.php:54
+msgid "Electrician Company<br> 8494 Signal Hill Road Manassas,<br> VA, 20110"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_contact_info.php:80
+#: ../electricity-addons/widgets/electrician_project.php:151
+#: ../electricity-addons/widgets/electrician_services_slider.php:161
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:183
+msgid "Title #2"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_project.php:20
+msgid "Electrician Project"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_project.php:42
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:48
+msgid "Layout Select"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_project.php:56
+msgid "@electricians"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_project.php:65
+msgid "Our Projects"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_project.php:89
+msgid "Button Name"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_project.php:91
+msgid "View More"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_project.php:123
+msgid "Residences"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_service_banner.php:17
+msgid "Electrician Service Banner"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_service_banner.php:75
+msgid "Responsive & Professional"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_service_banner.php:81
+msgid "Title Tag"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_service_banner.php:103
+msgid ""
+"We go the extra mile on every project. The value we provide clients comes "
+"from our level of skill and performance, as well as our knowledge and "
+"professionalism. Rest assured, we put the same level of energy into every "
+"project we take on."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_service_banner.php:112
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:82
+msgid "Contact Title"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_service_banner.php:114
+msgid "Call us today"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_service_banner.php:121
+msgid "Contact Number"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_service_banner.php:130
+msgid "Contact Time"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_service_banner.php:132
+msgid "We’re available 24/7, 365 days a year."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:17
+msgid "Electrician Services Slider"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:42
+msgid "24/7 Electrician Services – Safe and Efficient"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:51
+msgid "We are a Full Service Electrical Contractor"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:68
+msgid "Bulb Image"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:88
+msgid "Electrical Service"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:98
+msgid "We provide complete electrical design and installation services."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:109
+msgid "More info"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:116
+msgid "Button URL"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:173
+msgid "Carousel Settings"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:179
+msgid "How Many Slides To Show"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:188
+msgid "How Many Slides To Scroll"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:199
+msgid "4500"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_services_slider.php:223
+#: ../electricity-addons/widgets/electrician_services_slider.php:282
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:255
+msgid "Alt"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:51
+msgid "Testimonials Grid"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:108
+msgid "A Reputation You Can Count On"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:118
+msgid "Explore Some of Our Testimonials!"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:128
+msgid ""
+"Here are a few testimonials and reviews from our customers - we're sure you "
+"will feel the same when we work with you."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_grid.php:161
+msgid "Designation"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:26
+msgid "Electrician Testimonial Two"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:60
+msgid "Right Image"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:84
+msgid "Emergency Service"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:94
+msgid "If this is an emergency outside of normal business hours, call us"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:103
+msgid "Phone Number"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:105
+msgid " 1 (800) 765-43-21"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:125
+msgid "What Our Clients Say"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:132
+msgid "Review Title"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:134
+msgid "Professional, Reliable & Cost Effective"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:144
+msgid ""
+"We've been using your company and from the very beginning found him and his "
+"team to be extremely professional and knowledgeable . We wouldn't have any "
+"hesitation in recommending their services. "
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_testimonial_two.php:155
+msgid "Teresa and Kevin K."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_video.php:17
+msgid "Electrician Video"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_video.php:54
+msgid ""
+"Your <span class=\"tt-base-color\">Best Option</span><br>in "
+"Electrical<br>Contractors 24/7"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_video.php:66
+msgid ""
+"Our experienced electricians are highly trained in all aspects of electrical "
+"service, from office lighting and security systems to emergency repair."
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_video.php:77
+msgid "Explore services"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_video.php:97
+msgid "Video Link"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_why_us.php:17
+msgid "Electrician Why us"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_why_us.php:52
+msgid "Why us?"
+msgstr ""
+
+#: ../electricity-addons/widgets/electrician_why_us.php:61
+msgid "Our Electricians are:"
+msgstr ""
+
+#: ../electricity-addons/widgets/our-advantages.php:18
+msgid "Our Advantage"
+msgstr ""
+
+#: ../electricity-addons/widgets/our-advantages.php:43
+msgid "Our <b>Advantages</b>"
+msgstr ""
+
+#: ../electricity-addons/widgets/our-advantages.php:54
+msgid ""
+"Electrician is your single source for a complete range of high-quality "
+"electrical services, including design/build, engineering, construction, "
+"start-up, commissioning, operation, and maintenance."
+msgstr ""
+
+#: ../electricity-addons/widgets/our-advantages.php:93
+msgid "Free<br>Estimates"
+msgstr ""
+
+#: ../electricity-addons/widgets/our-advantages.php:96
+msgid "Low Price Guarantee"
+msgstr ""
+
+#: ../electricity-addons/widgets/our-advantages.php:99
+msgid "Licensed & Insured Experts"
+msgstr ""
+
+#: ../electricity-addons/widgets/our-advantages.php:102
+msgid "Fast & Reliable Response Times"
+msgstr ""
+
+#: ../electricity-core.php:135
+#, php-format
+msgid ""
+"\"%1$s\" AND \"%2$s\" both are page builder plugins. Those plugins load "
+"their assets itself. You should not use two at once. It may create conflict "
+"in your site performance. We strongly suggest to you using one of them.\n"
+"                "
+msgstr ""
+
+#: ../electricity-core.php:139
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: ../electricity-core.php:143
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/config.meta.box.php:27
+msgid "Our Coupons Meta Fields"
+msgstr ""
+
+#: ../lib/config.meta.box.php:36 ../lib/config.meta.box.php:37
+msgid "Coupon Top Left"
+msgstr ""
+
+#: ../lib/config.meta.box.php:42 ../lib/config.meta.box.php:43
+msgid "Coupon Top Right Title"
+msgstr ""
+
+#: ../lib/config.meta.box.php:48 ../lib/config.meta.box.php:49
+msgid "Coupon Top Right Percentance"
+msgstr ""
+
+#: ../lib/config.meta.box.php:54 ../lib/config.meta.box.php:55
+msgid "Coupon Top Right Content"
+msgstr ""
+
+#: ../lib/config.meta.box.php:60 ../lib/config.meta.box.php:61
+msgid "Coupon Bottom Right"
+msgstr ""
+
+#: ../lib/config.meta.box.php:66 ../lib/config.meta.box.php:67
+msgid "Coupon Bottom Right Image"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:9
+msgid "Add New"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:10
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:11
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:12
+msgid "New Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:13
+msgid "View Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:14
+msgid "Search Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:15
+msgid "No Gallery found"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:16
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:33
+msgid "gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:38
+msgctxt "portfolio categories"
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:39
+msgctxt "portfolio category"
+msgid "Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:40
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:41
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:42
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:43
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:44
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:45
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:46
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:47
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:48
+msgid "Gallery Category"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:184
+msgid "Sidebar Generator"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:185
+msgid ""
+"The sidebar name is for your use only. It will not be visible to any of your "
+"visitors. A CSS class is assigned to each of your sidebar, use this styling "
+"to customize the sidebars."
+msgstr ""
+
+#: ../lib/sidebar_generator.php:188
+msgid "+ Add Sidebar"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:193
+msgid "Name"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:194
+msgid "CSS class"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:195
+msgid "Remove"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:208
+msgid "Remove this sidebar"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:208
+msgid "remove"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:216
+msgid "No Sidebars defined"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:8 ../post_type/custom-post-coupon.php:10
+#: ../post_type/custom-post-coupon.php:149
+msgid "Coupon"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:11
+#: ../post_type/custom_post_services.php:19
+msgid "Item Archives"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:12
+#: ../post_type/custom_post_services.php:20
+msgid "Parent Item:"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:13
+msgid "All Coupons"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:14
+#: ../post_type/custom-post-coupon.php:15
+msgid "Add New Coupon"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:16
+#: ../post_type/custom_post_services.php:24
+msgid "New Service Item"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:17
+msgid "Edit Coupon Item"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:18
+msgid "Update Coupon Item"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:19
+msgid "View Coupon Item"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:20
+#: ../post_type/custom_post_services.php:28
+msgid "Search Item"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:21
+#: ../post_type/custom_post_services.php:29
+msgid "Not found"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:22
+#: ../post_type/custom_post_services.php:30
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:23
+#: ../post_type/custom_post_services.php:31
+msgid "Featured Image"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:24
+#: ../post_type/custom_post_services.php:32
+msgid "Set featured image"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:25
+#: ../post_type/custom_post_services.php:33
+msgid "Remove featured image"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:26
+#: ../post_type/custom_post_services.php:34
+msgid "Use as featured image"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:27
+#: ../post_type/custom_post_services.php:35
+msgid "Insert into item"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:28
+#: ../post_type/custom_post_services.php:36
+msgid "Uploaded to this item"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:29
+#: ../post_type/custom_post_services.php:37
+msgid "Items list"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:30
+#: ../post_type/custom_post_services.php:38
+msgid "Items list navigation"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:31
+#: ../post_type/custom_post_services.php:39
+msgid "Filter items list"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:36
+#: ../post_type/custom_post_services.php:46
+msgid "Description."
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:102
+#: ../post_type/custom-post-coupon.php:330
+msgid "Close"
+msgstr ""
+
+#: ../post_type/custom-post-coupon.php:103
+#: ../post_type/custom-post-coupon.php:331
+msgid "Print"
+msgstr ""
+
+#: ../post_type/custom_post_services.php:16
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: ../post_type/custom_post_services.php:18
+msgid "Service"
+msgstr ""
+
+#: ../post_type/custom_post_services.php:21
+msgid "All Services"
+msgstr ""
+
+#: ../post_type/custom_post_services.php:22
+#: ../post_type/custom_post_services.php:23
+msgid "Add New Service"
+msgstr ""
+
+#: ../post_type/custom_post_services.php:25
+msgid "Edit Service Item"
+msgstr ""
+
+#: ../post_type/custom_post_services.php:26
+msgid "Update Service Item"
+msgstr ""
+
+#: ../post_type/custom_post_services.php:27
+msgid "View Service Item"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:12
+#: ../vc_element/vc_map_price_box.php:9
+msgid "No contact forms found"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:41
+msgid "Select contact form for Pop Up Id"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:45
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:71
+msgid "Icon library"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:74
+msgid "Font Awesome"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:75
+msgid "Open Iconic"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:76
+msgid "Typicons"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:77
+msgid "Entypo"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:78
+msgid "Linecons"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:79
+msgid "Mono Social"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:82
+msgid "Select icon library."
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:99
+#: ../vc_element/vc_map_action_button.php:116
+#: ../vc_element/vc_map_action_button.php:133
+#: ../vc_element/vc_map_action_button.php:166
+#: ../vc_element/vc_map_action_button.php:185
+#: ../vc_element/vc_map_action_button.php:204
+msgid "Select icon from library."
+msgstr ""
+
+#: ../vc_element/vc_map_counter_block.php:5
+msgid "Electrician Counter Box"
+msgstr ""
+
+#: ../vc_element/vc_map_counter_block.php:22
+#: ../vc_element/vc_map_latest_news.php:21
+#: ../vc_element/vc_map_testimonials.php:47
+msgid "How many slides to show"
+msgstr ""
+
+#: ../vc_element/vc_map_counter_block.php:32
+#: ../vc_element/vc_map_latest_news.php:31
+#: ../vc_element/vc_map_testimonials.php:57
+msgid "How many slides to scroll"
+msgstr ""
+
+#: ../vc_element/vc_map_counter_block.php:42
+#: ../vc_element/vc_map_latest_news.php:41
+#: ../vc_element/vc_map_testimonials.php:67
+msgid "Enable Infinite Scroll"
+msgstr ""
+
+#: ../vc_element/vc_map_counter_block.php:53
+#: ../vc_element/vc_map_latest_news.php:52
+#: ../vc_element/vc_map_testimonials.php:78
+msgid "Enable Autoplay"
+msgstr ""
+
+#: ../vc_element/vc_map_counter_block.php:74
+#: ../vc_element/vc_map_latest_news.php:73
+#: ../vc_element/vc_map_testimonials.php:99
+msgid "Enable Arrows"
+msgstr ""
+
+#: ../vc_element/vc_map_counter_block.php:85
+#: ../vc_element/vc_map_latest_news.php:84
+#: ../vc_element/vc_map_testimonials.php:110
+msgid "Enable Dots"
+msgstr ""
+
+#: ../vc_element/vc_map_coupns.php:11
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../vc_element/vc_map_latest_news.php:125
+#: ../vc_element/vc_map_service_item.php:41
+msgid "Description text"
+msgstr ""
+
+#: ../vc_element/vc_map_latest_news.php:131
+#: ../vc_element/vc_map_service_item.php:55
+msgid "Thumbnail Image"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:12
+msgid "Electrician Price"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:41
+msgid "Plan Title"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:48
+msgid "Planning Currency"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:55
+msgid "Planning Rate"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:62
+msgid "Plan Time"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:70
+msgid "Plan content"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:112
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: ../vc_element/vc_map_price_box.php:124
+msgid "Modal Title"
+msgstr ""
+
+#: ../vc_element/vc_map_service_item.php:20
+msgid "No Of Column"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials.php:4
+msgid "Electrician Testimonials"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials.php:37
+msgid "Heading color"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials.php:123
+msgid "Electrician Testimonials Item"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials.php:154
+msgid "Company"
+msgstr ""
+
+#: ../vc_element/vc_map_youtube_embed.php:3
+msgid "YouTube Video"
+msgstr ""
+
+#: ../vc_element/vc_map_youtube_embed.php:4
+msgid "YouTube Embed "
+msgstr ""
+
+#: ../vc_element/vc_map_youtube_embed.php:14
+msgid "Video ID"
+msgstr ""
+
+#: ../vc_element/vc_map_youtube_embed.php:16
+msgid ""
+"  URL of the video is: https://www.youtube.com/watch?v=rvJxZ18TRvg. "
+"Therefore, the ID of the video is rvJxZ18TRvg."
+msgstr ""
+
+#: ../widget/footer_google_map.php:15
+msgid "Electrician Footer Map"
+msgstr ""
+
+#: ../widget/footer_google_map.php:17
+msgid "Footer Google Map."
+msgstr ""
+
+#: ../widget/footer_google_map.php:32
+msgid "Show Google map as image"
+msgstr ""
+
+#: ../widget/footer_google_map.php:37
+msgid "Map Image Url"
+msgstr ""
+
+#: ../widget/sevice_contact_address.php:8
+#: ../widgets/smart-contact-list-widget.php:7
+msgid "Contacts"
+msgstr ""
+
+#: ../widget/sevice_contact_address.php:21
+msgid "Side Bar Contact Box."
+msgstr ""
+
+#: ../widget/sevice_contact_address.php:24
+msgid "Service Contact Box"
+msgstr ""
+
+#: ../widget/sevice_contact_address.php:41
+msgid "Address Title"
+msgstr ""
+
+#: ../widget/sevice_contact_address.php:46
+#: ../widgets/smart-contact-list-widget.php:62
+msgid "Address"
+msgstr ""
+
+#: ../widget/sevice_contact_address.php:51
+msgid "Phone Title"
+msgstr ""
+
+#: ../widget/sevice_contact_address.php:62
+msgid "Work Time Title"
+msgstr ""
+
+#: ../widget/sevice_contact_address.php:67
+msgid "Work Time"
+msgstr ""
+
+#: ../widget/update_wp_custom_menu.php:27
+msgid "Add a service custom menu to your sidebar."
+msgstr ""
+
+#: ../widget/update_wp_custom_menu.php:30
+msgid "Service Custom Menu"
+msgstr ""
+
+#: ../widget/update_wp_custom_menu.php:165
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../widget/update_wp_custom_menu.php:175
+msgid "Title:"
+msgstr ""
+
+#: ../widget/update_wp_custom_menu.php:179
+#: ../widget/update_wp_custom_menu.php:209
+msgid "Menu Link:"
+msgstr ""
+
+#: ../widget/update_wp_custom_menu.php:183
+msgid "Select Menu:"
+msgstr ""
+
+#: ../widget/update_wp_custom_menu.php:185
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../widget/update_wp_custom_menu.php:204
+msgid "Menu Title:"
+msgstr ""
+
+#: ../widget/update_wp_custom_menu.php:221
+msgid "Edit Menu"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:15
+msgid "Electrician Contact List"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:17
+msgid "This widget will Contact List."
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:53
+msgid "Email"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:70
+msgid "Hours"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:99
+msgid "<b>P</b>hone:"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:106
+msgid "<b>E</b>mail:"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:114
+msgid "<b>A</b>ddress:"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:11
+msgid "Popular Posts"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:18
+msgid "Electrician Posts Grid"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:20
+msgid "This widget will display posts grid on sidebars."
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:37
+msgid "Order By:"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:41
+msgid "Comments"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:46
+msgid "Order:"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:48
+msgid "Descending"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:49
+msgid "Ascending"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:54
+msgid "Posts Limit"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:144
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../widgets/smart-social-media-widget.php:70
+#: ../widgets/smart-social-media-widget.php:72
+msgid "Electrician Social Media Widget"
+msgstr ""

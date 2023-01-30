@@ -1,0 +1,108 @@
+
+---Downloaded files---
+The import files for: Electrician were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://moon-dress1.ir
+Data file = /home/pouya/domains/moon-dress1.ir/public_html/wp-content/plugins/electrician-demo-installer/demo-data/demo1/contents.xml
+Widget file = /home/pouya/domains/moon-dress1.ir/public_html/wp-content/plugins/electrician-demo-installer/demo-data/demo1/widgets.wie
+Customizer file = /home/pouya/domains/moon-dress1.ir/public_html/wp-content/plugins/electrician-demo-installer/demo-data/demo1/customize.dat
+Redux files:
+electrician_option -> /home/pouya/domains/moon-dress1.ir/public_html/wp-content/plugins/electrician-demo-installer/demo-data/demo1/settings.json 
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Widget already exists
+Categories - No Title - Widget already exists
+Calendar - Archive - Widget already exists
+Tag Cloud - Tags - Widget already exists
+Electrician Posts Grid - Recent Posts - Widget already exists
+
+Services Sidebar : 
+
+Service Custom Menu - Commercial - Widget already exists
+Service Custom Menu - Industrial - Widget already exists
+Service Custom Menu - Residential - Widget already exists
+Service Contact Box - No Title - Widget already exists
+Text - Ask Your Question - Widget already exists
+
+Contact Sidebar : 
+
+Text - No Title - Widget already exists
+Electrician Social Media Widget - No Title - Widget already exists
+
+Footer Column 1 : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer Column 2 : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer Column 3 : 
+
+Electrician Footer Map - No Title - Widget already exists
+
+Woo Shop Sidebar : 
+
+Filter Products by Price - Price - Widget already exists
+Product Categories - Categories - Widget already exists
+Products list - Products - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: electrician_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Widget already exists
+Categories - No Title - Widget already exists
+Calendar - Archive - Widget already exists
+Tag Cloud - Tags - Widget already exists
+smart_posts_grid - Recent Posts - Site does not support widget
+
+Services Sidebar : 
+
+wp_service_nav_menu_widget - Commercial - Site does not support widget
+wp_service_nav_menu_widget - Industrial - Site does not support widget
+wp_service_nav_menu_widget - Residential - Site does not support widget
+smart_contact_box - No Title - Site does not support widget
+Text - Ask Your Question - Widget already exists
+
+Contact Sidebar : 
+
+Text - No Title - Widget already exists
+electricity-social-media - No Title - Site does not support widget
+
+Footer Column 1 : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer Column 2 : 
+
+Custom HTML - No Title - Widget already exists
+
+Footer Column 3 : 
+
+footer_map - No Title - Site does not support widget
+
+Woo Shop Sidebar : 
+
+woocommerce_price_filter - Price - Site does not support widget
+woocommerce_product_categories - Categories - Site does not support widget
+woocommerce_products - Products - Site does not support widget
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
